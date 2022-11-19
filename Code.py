@@ -1,3 +1,6 @@
+# Link do video do projeto 
+# https://www.youtube.com/watch?v=7_bMinrqAvQ
+
 from random import randrange
 
 matrizEmbarcaçoesJogador = []
